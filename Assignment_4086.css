@@ -1,0 +1,115 @@
+
+*{
+    padding:0px;margin:0px;box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    max-width: 100%;
+}
+
+.upperPortion{
+    padding: 0% 5% 0% 5%;
+}
+
+header .logo{
+    float:left;
+}
+
+header .navigationTab{
+    float:right;
+    padding-top:3%;
+    
+}
+.navigationTab a{
+    margin-right:15px; 
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+nav a:hover{
+    border: 1px solid black;
+    padding: 3px;
+}
+nav a.ankerLast{
+    margin-right:0%;
+    text-decoration: none;
+}
+.banner{
+    background-image: url("banner.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 12%;
+    text-align: center;
+    margin-bottom: 3%;
+    
+}
+.banner h1{
+    margin-bottom: 2%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.postBanner{
+    text-align: center;
+    padding: 0% 10% 0% 10%;
+    margin-bottom: 1%;
+}
+
+h3{
+    margin-bottom: 2%;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+   
+
+.button a{
+    background-color: #d6d427; 
+    border: none;
+    color: black;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 14px;
+  }
+
+.line{
+    margin-bottom: 3%;
+    margin-top: 1%;
+    border-bottom: #f2f2f2 solid 1px;
+}
+
+.services{
+    float:left;
+    width:23%;
+    margin-right:30px;
+    margin-bottom:4%;
+}
+.services p{
+    font-size: 13px;
+}
+
+.last_services{
+    float:left;
+    width:23%;
+}
+.last_services p{
+    font-size: 13px;
+}
+
+h4{
+    margin-top: 5%;
+    margin-bottom:3%;
+}
+
+
+.clear{
+    clear:both;
+}
