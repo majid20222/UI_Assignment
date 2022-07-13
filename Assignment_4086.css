@@ -10,7 +10,7 @@ img{
 }
 
 .upperPortion{
-    padding: 0% 5% 0% 5%;
+    padding: 0% 8% 0% 8%;
 }
 
 header .logo{
@@ -108,6 +108,111 @@ h4{
     margin-top: 5%;
     margin-bottom:3%;
 }
+
+.aboutUs{
+    float: left;
+    width: 55%;
+    margin-right: 5%;
+    margin-top: 10%;
+}
+.aboutUs h2{
+    font-size: 43px;
+    font-weight: lighter;
+    margin-top: 4%;
+    margin-bottom: 6%;
+    padding-right: 5%;
+}
+.aboutUs p{
+    color: #615f5f;
+}
+.Button a{
+    background-color: white; 
+    border: black solid 1px;
+    color: black;
+    padding: 14px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: lighter;
+    margin-top: 6%;
+    font-size: 15px;
+}
+
+
+.aboutImage{
+    float:right;
+    width: 38%;
+    margin-right: 2%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.question{
+    background-image: url("qurestions-banner.jpg");
+    background-size: 120%;
+    background-repeat: no-repeat;
+    padding: 8%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+.question h1{
+    margin-bottom: 2%;
+    font-size: 40px;
+    font-weight: bold;
+}
+.question p{
+    padding:0% 30% 0% 30%;
+    margin-bottom: 1%;
+}
+.question a{
+    background-color: #f1da0b; 
+    border: none;
+    color: black;
+    padding: 16px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: lighter;
+    margin-top: 3%;
+    font-size: 14px;
+    border-radius: 5%;
+}
+.preTabletext{
+    padding: 0px 2% 0px 2%;
+}
+
+.preTabletext h4{
+    margin-bottom: 1%;
+    font-weight: bold;
+    font-size: 20px;}
+.preTabletext p{
+    margin-bottom: 1%;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color: #e4dcdc;
+    padding: 9px;
+    font-size: 12px;
+    text-align: left;
+    border-bottom: black solid 1px;
+}
+td{
+    padding: 6px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: middle;
+    border-bottom: #f2f2f2 solid 1px;
+}
+
+
+
+
+
+
+
+
 
 
 .clear{
